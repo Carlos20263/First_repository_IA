@@ -1,0 +1,19 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    text-align: center;
+    background-color: rgb(144, 160, 238); /* Color de fondo */
+    color: rgb(22, 22, 22); /* Color del texto */
+}
+/* Intenta ponerle color de fondo y color al texto del h1 */
+
+h1{
+    background-color: rgba(128, 191, 240, 0.547);
+    color: rgb(225, 234, 239);
+}
+div{
+    max-width: 600px;
+}
